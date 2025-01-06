@@ -55,10 +55,6 @@ This C# script extracts and decrypts tokens from various applications and browse
 This script is provided under the [MIT License](LICENSE).  
 By using this script, you agree to comply with all applicable laws and regulations and use it only for lawful, ethical purposes.
 
-## **Bugs & features** 🧩
-- [Report bug](https://github.com/velimirpaleksic/portfolio/issues)
-- [Request Feature](https://github.com/velimirpaleksic/portfolio/issues)
-
 ## **Contact** ✉
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
 - VexSystems Github: [github.com/vexsystems](https://github.com/vexsystems).
